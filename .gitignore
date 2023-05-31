@@ -1,0 +1,36 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+
+# Virtual environment
+env/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Compiled Python extensions
+*.so
+*.pyd
+*.dll
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+logs/
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Environment-specific files
+.env
+
+# Project-specific files
+results/
